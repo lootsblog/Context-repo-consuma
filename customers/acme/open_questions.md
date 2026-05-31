@@ -2,6 +2,5 @@
 
 These are gaps the agent could not resolve from the codebase alone.
 
-- [ ] What is the expected input and output format for the converter?
-- [ ] How does the converter handle errors and exceptions?
-- [ ] What is the purpose of the 'src.core.converter' module?
+- [ ] What is the current performance of the converter in terms of documents per minute?
+- [ ] How does the system handle large PDFs that may cause memory spikes during conversion?
