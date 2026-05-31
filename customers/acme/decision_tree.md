@@ -1,6 +1,10 @@
-# Decision Tree
+# Decision Records
 
-Operational decisions and their rationale accumulate here as the team and agents learn the system.
+Key architectural and operational decisions, extracted from provided decision records and transcripts.
+
+- Chose markdown over JSON for AI output due to token efficiency (ADR-007)
+- Deferred async worker queue until >100 docs/min (ADR-012)
+- Enforced zero content-loss guarantee via post-conversion validation (ADR-019)
 
 ## Open risks / warnings
-- (none)
+- Large PDFs may cause memory spikes during conversion
