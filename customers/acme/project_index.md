@@ -1,3 +1,3 @@
 # IntelliParse — Project Index
 
-Single Python CLI that converts PDF/DOCX/TXT into AI-ready markdown.
+The repository appears to be a Python-based document converter that transforms PDF, DOCX, and TXT files into optimized markdown for AI consumption.
