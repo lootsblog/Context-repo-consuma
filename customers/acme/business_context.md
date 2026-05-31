@@ -1,3 +1,3 @@
 # Business Context
 
-IntelliParse powers the enterprise document ingestion pipeline, and its outage can block contract-review SLAs and downstream AI review, impacting legal and compliance teams.
+Online Boutique is our flagship e-commerce storefront. Checkout availability directly affects revenue and is the most SLA-critical path; the cart must survive pod restarts.
