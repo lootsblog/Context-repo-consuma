@@ -7,4 +7,4 @@ Key architectural and operational decisions, extracted from provided decision re
 - Enforced zero content-loss guarantee via post-conversion validation (ADR-019)
 
 ## Open risks / warnings
-- Large PDFs may cause memory spikes during conversion
+- Large PDFs can cause memory spikes during conversion, potentially leading to outages (Incident 05-18)
